@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Desktop\Cshrp\bin\Debug\net6.0\Cshrp.exe
+C:\Users\gabri\OneDrive\Desktop\Cshrp\bin\Debug\net6.0\Cshrp.deps.json
+C:\Users\gabri\OneDrive\Desktop\Cshrp\bin\Debug\net6.0\Cshrp.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Cshrp\bin\Debug\net6.0\Cshrp.dll
+C:\Users\gabri\OneDrive\Desktop\Cshrp\bin\Debug\net6.0\Cshrp.pdb
+C:\Users\gabri\OneDrive\Desktop\Cshrp\obj\Debug\net6.0\Cshrp.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\Cshrp\obj\Debug\net6.0\Cshrp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Cshrp\obj\Debug\net6.0\Cshrp.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Cshrp\obj\Debug\net6.0\Cshrp.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Cshrp\obj\Debug\net6.0\Cshrp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Cshrp\obj\Debug\net6.0\Cshrp.dll
+C:\Users\gabri\OneDrive\Desktop\Cshrp\obj\Debug\net6.0\refint\Cshrp.dll
+C:\Users\gabri\OneDrive\Desktop\Cshrp\obj\Debug\net6.0\Cshrp.pdb
+C:\Users\gabri\OneDrive\Desktop\Cshrp\obj\Debug\net6.0\Cshrp.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Cshrp\obj\Debug\net6.0\ref\Cshrp.dll
